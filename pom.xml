@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 <!--	下面三个是本项目的坐标-->
-	<groupId>com.qylapi</groupId>
+	<groupId>io.github.qinyl-sir</groupId>
 	<artifactId>qyl-client-sdk</artifactId>
 	<version>0.0.1</version>
 
