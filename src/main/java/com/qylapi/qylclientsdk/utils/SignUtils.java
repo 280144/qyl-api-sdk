@@ -1,8 +1,6 @@
-package com.yupi.qylinterface.utils;
+package com.yupi.qylclientsdk.utils;
 
 import cn.hutool.crypto.digest.DigestUtil;
-
-import java.util.Map;
 
 /**
  * 签名工具

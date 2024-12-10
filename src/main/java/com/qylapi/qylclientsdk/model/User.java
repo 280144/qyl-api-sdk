@@ -1,7 +1,8 @@
-package com.yupi.qylinterface.model;
+package com.yupi.qylclientsdk.model;
 
 import lombok.Data;
 
+//用不到
 @Data
 public class User {
 
