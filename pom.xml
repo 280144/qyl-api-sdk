@@ -11,7 +11,7 @@
     <!--	下面三个是本项目的坐标-->
     <groupId>io.github.qinyl-sir</groupId>
     <artifactId>qyl-client-sdk</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <name>qyl-client-sdk</name>
     <description>qyl-client-sdk</description>
