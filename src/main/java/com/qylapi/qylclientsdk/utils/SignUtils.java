@@ -1,4 +1,4 @@
-package com.yupi.qylclientsdk.utils;
+package com.qylapi.qylclientsdk.utils;
 
 import cn.hutool.crypto.digest.DigestUtil;
 

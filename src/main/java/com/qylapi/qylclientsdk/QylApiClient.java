@@ -1,6 +1,7 @@
-package com.yupi.qylclientsdk;
+package com.qylapi.qylclientsdk;
 
-import com.yupi.qylclientsdk.client.ApiClient;
+
+import com.qylapi.qylclientsdk.client.ApiClient;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;

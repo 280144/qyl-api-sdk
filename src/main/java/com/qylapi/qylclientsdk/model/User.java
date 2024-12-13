@@ -1,4 +1,4 @@
-package com.yupi.qylclientsdk.model;
+package com.qylapi.qylclientsdk.model;
 
 import lombok.Data;
 
