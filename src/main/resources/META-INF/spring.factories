@@ -1,2 +1,2 @@
 # ??????
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yupi.qylclientsdk.QylApiClient
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.qylapi.qylclientsdk.QylApiClient

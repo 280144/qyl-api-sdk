@@ -11,7 +11,7 @@
     <!--	下面三个是本项目的坐标-->
     <groupId>io.github.qinyl-sir</groupId>
     <artifactId>qyl-client-sdk</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <name>qyl-client-sdk</name>
     <description>qyl-client-sdk</description>
@@ -40,6 +40,11 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+<!--        本地构建-->
+        <gpg.skip>true</gpg.skip>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
+
     </properties>
     <dependencies>
         <dependency>

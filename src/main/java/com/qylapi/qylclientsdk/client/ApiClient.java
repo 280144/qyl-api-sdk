@@ -16,7 +16,7 @@ import static com.qylapi.qylclientsdk.utils.SignUtils.getSign;
  */
 public class ApiClient {
 
-    private static final String GATEWAY_HOST = "http://localhost:8090";
+    private static final String GATEWAY_HOST = "http://8.134.208.162:8090";
 
     private String accesskey ;
     private String secretkey ;
